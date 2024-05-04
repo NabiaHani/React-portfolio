@@ -1,0 +1,5 @@
+export * from "./Home"
+export * from "./AboutMe"
+export * from "./Skills"
+export * from "./Project"
+export * from "./Contact"
